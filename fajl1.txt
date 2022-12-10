@@ -1,0 +1,1 @@
+git int naredba se koristi samo jednom prilikom kreiranja repozitorijuma. Radi samo ako je repozitorijum prazan
